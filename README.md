@@ -7,4 +7,4 @@ Keymoji is a floating keyboard program which allows Windows user to send emoji m
 
 Simply press the activation keys (default is CTRL + ALT + Space) and you can now use emoji in your Windows machine.
 
-Head to http://keymoji.github.io for more information.
+Head to http://keymojimy.wixsite.com/keymoji for more information.
