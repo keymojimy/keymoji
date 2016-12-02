@@ -14,7 +14,7 @@ You can download the latest and previous version of Keymojwin here.
 ## Latest current version
 The latest current version of Keymojwin is the Beta 1 version (Dec 2016). Simply click on the .exe file and click "Download" to download the installer.
 
-### Consider donating to 
+### Consider donating by clicking [here](http://keymojwinmy.wixsite.com/keymojwin/donate) if you like this software. Your donation will encourage me to continue the development of Keymojwin, and also will help my struggle alot.
 
 ### Features and Changelog:
 Beta 1 changelog (Dec 2016) :
